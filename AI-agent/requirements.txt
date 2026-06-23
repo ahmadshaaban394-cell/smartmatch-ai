@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-multipart
+PyMuPDF
+mysql-connector-python
+scikit-learn
+python-dotenv
